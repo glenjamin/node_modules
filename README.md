@@ -25,41 +25,41 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 ## Utility Belts
 
-* lodash
-* async
+* [lodash](http://npm.im/lodash) - general functional functions
+* [async](http://npm.im/async) - control flow for async functions
 
 ## HTTP
 
 ### Client
 
-* request
-* primus (websockets)
+* [request](http://npm.im/request) - all-in-one HTTP client
+* [primus](http://npm.im/primus) - websocket client/server
 
 ### Server
 
-* express
-* primus (websockets)
+* [express](http://npm.im/express) - popular and simple middleware based server
+* [primus](http://npm.im/primus) - websocket client/server
 
 ## CLI
 
 ### Argument Parsing
 
-* yargs
-* commander
+* [yargs](http://npm.im/yargs) - simple argument parsing
+* [commander](http://npm.im/commander) - nice API for doing subcommands
 
 ### Misc
 
-* chalk
+* [chalk](http://npm.im/chalk) - ANSI colours
 
 ## External Services
 
-* mysql
-* amqp
-* AMQPea
+* [mysql](http://npm.im/mysql)
+* [amqp](http://npm.im/amqp) - been around a long time, API is a bit weird, error handling sometimes annoying
+* [AMQPea](http://npm.im/AMQPea) - my own, early days yet
 
 ## Testing
 
-* mocha
-* sinon
-* chai
-* nock
+* [mocha](http://npm.im/mocha) - test running framework
+* [sinon](http://npm.im/sinon) - spies/stubs/mocks
+* [chai](http://npm.im/chai) - richer set of assertions, optional `expect()` API
+* [nock](http://npm.im/nock) - set up fake HTTP responses
