@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/glenjamin/node_modules/issues"
   },
-  "homepage": "https://github.com/glenjamin/node_modules"
+  "homepage": "https://github.com/glenjamin/node_modules",
+  "dependencies": {
+    "markdown-toc": "~0.5.1"
+  }
 }
