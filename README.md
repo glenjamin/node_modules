@@ -71,6 +71,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 * [react](http://npm.im/react) - React itself
 * [react-bootstrap](http://npm.im/react-bootstrap) - Bootstrap widgets for React
+* react-immutable-proptypes
 
 ## Filesystem
 
@@ -82,6 +83,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 ## Data Wrangling
 
+* [immutable](http://npm.im/immutable) - immutable data types
 * [moment](http://npm.im/moment) - awesome date/time handling lib
 * [joi](http://npm.im/joi) - datatype validation and co-ercion
 * [tv4](http://npm.im/tv4) - JSON schema
