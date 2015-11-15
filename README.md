@@ -9,27 +9,29 @@ I'm also often asked "What module should I use for X?".
 
 This page is my attempt to solve both of these problems, by maintaining a public list of all the modules I like.
 
-<!-- toc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Utility Belts](#utility-belts)
 - [Debugging](#debugging)
 - [HTTP](#http)
-  * [Client](#client)
-  * [Server](#server)
-  * [Express Middleware](#express-middleware)
-  * [Misc](#misc)
+  - [Client](#client)
+  - [Server](#server)
+  - [Express Middleware](#express-middleware)
+  - [Misc](#misc)
 - [React](#react)
 - [Filesystem](#filesystem)
 - [Streams](#streams)
 - [Data Wrangling](#data-wrangling)
 - [CLI](#cli)
-  * [Argument Parsing](#argument-parsing)
-  * [Misc](#misc)
+  - [Argument Parsing](#argument-parsing)
+  - [Misc](#misc-1)
 - [External Services](#external-services)
 - [Testing](#testing)
 - [Uncategorised](#uncategorised)
 
-<!-- tocstop -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Utility Belts
 
