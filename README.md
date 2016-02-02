@@ -43,6 +43,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [debug](http://npm.im/debug) - simple, switchable debug logging
 * [longjohn](http://npm.im/longjohn) - stitch together stack traces across event loop ticks
 * [node-inspector](http://npm.im/node-inspector) - debug with webkit devtools
+* [ono](http://npm.im/ono) - extending errors, including causes
 
 ## HTTP
 
