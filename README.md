@@ -93,6 +93,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [xml2js](http://npm.im/xml2js) - sometimes XML is unavoidable
 * [sax](http://npm.im/sax) - for parsing lots of XML
 * [escape-string-regexp](http://npm.im/escape-string-regexp) - escaping regex strings
+* [validate.js](http://npm.im/validate.js) - isomorphic contracts-style validation of data
 
 ## CLI
 
