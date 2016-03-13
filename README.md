@@ -74,7 +74,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 * [react](http://npm.im/react) - React itself
 * [react-bootstrap](http://npm.im/react-bootstrap) - Bootstrap widgets for React
-* react-immutable-proptypes
+* [react-immutable-proptypes](http://npm.im/react-immutable-proptypes)
 
 ## Filesystem
 
@@ -117,6 +117,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [mocha](http://npm.im/mocha) - test running framework
 * [sinon](http://npm.im/sinon) - spies/stubs/mocks
 * [chai](http://npm.im/chai) - richer set of assertions, optional `expect()` API
+* [dirty-chai](http://npm.im/dirty-chai) - Monkeypatch chai to promote property access assertions into function calls
 * [supertest](http://npm.im/supertest) - HTTP client for testing servers
 * [nock](http://npm.im/nock) - set up fake HTTP responses
 
