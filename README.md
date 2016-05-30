@@ -65,6 +65,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [cookie-parser](http://npm.im/cookie-parser) - cookies
 * [lodash-express](http://npm.im/lodash-express) - lodash templates for express
 * [morgan](http://npm.im/morgan) - HTTP request logging
+* [bunyan-middleware](http://npm.im/bunyan-middleware) - JSON based request logging
 
 ### Misc
 
