@@ -58,6 +58,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [express](http://npm.im/express) - popular and simple middleware based server
 * [primus](http://npm.im/primus) - generic websocket-type client/server thing
 * [ws](http://npm.im/ws) - actual websocket implementation
+* [http-shutdown](http://npm.im/http-shutdown) - Ensure HTTP server shutdown cleanly despite keepalives
 
 ### Express Middleware
 
