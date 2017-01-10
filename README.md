@@ -72,6 +72,10 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 * [routes](http://npm.im/routes) - basic standalone URL routing. works on client
 
+### Templating
+
+* [hbs](http://npm.im/hbs) - reasonably fast mustache-like templating language
+
 ## React
 
 * [react](http://npm.im/react) - React itself
