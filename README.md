@@ -67,6 +67,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [lodash-express](http://npm.im/lodash-express) - lodash templates for express
 * [morgan](http://npm.im/morgan) - HTTP request logging
 * [bunyan-middleware](http://npm.im/bunyan-middleware) - JSON based request logging
+* [http-proxy-middleware](http://npm.im/http-proxy-middleware) - Proxy requests through to backend APIs
 
 ### Misc
 
