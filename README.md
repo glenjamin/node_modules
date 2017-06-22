@@ -77,6 +77,10 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 * [hbs](http://npm.im/hbs) - reasonably fast mustache-like templating language
 
+## Databases
+
+* [knex](http://npm.im/knex) - Query builder and migrations
+
 ## React
 
 * [react](http://npm.im/react) - React itself
