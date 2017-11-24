@@ -105,6 +105,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [sax](http://npm.im/sax) - for parsing lots of XML
 * [escape-string-regexp](http://npm.im/escape-string-regexp) - escaping regex strings
 * [validate.js](http://npm.im/validate.js) - isomorphic contracts-style validation of data
+* dot-prop - safely access deep properties
 
 ## CLI
 
