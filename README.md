@@ -76,7 +76,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 ### Templating
 
-* [hbs](http://npm.im/hbs) - reasonably fast mustache-like templating language
+* [express-handlebars](http://npm.im/express-handlebars) - reasonably fast mustache-like templating language
 
 ## Databases
 
