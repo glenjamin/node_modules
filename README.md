@@ -107,6 +107,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [escape-string-regexp](http://npm.im/escape-string-regexp) - escaping regex strings
 * [validate.js](http://npm.im/validate.js) - isomorphic contracts-style validation of data
 * dot-prop - safely access deep properties
+* [daggy](http://npm.im/daggy) - sum types
 
 ## CLI
 
