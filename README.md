@@ -69,6 +69,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [morgan](http://npm.im/morgan) - HTTP request logging
 * [bunyan-middleware](http://npm.im/bunyan-middleware) - JSON based request logging
 * [http-proxy-middleware](http://npm.im/http-proxy-middleware) - Proxy requests through to backend APIs
+* [linkto](http://npm.im/linkto) - Correctly calculate absolute URL based on incoming request
 
 ### Misc
 
