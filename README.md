@@ -78,6 +78,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 ### Templating
 
 * [express-handlebars](http://npm.im/express-handlebars) - reasonably fast mustache-like templating language
+* [serialize-javascript](http://npm.im/serialize-javascript) - Safely serialise JS for use in `<script>` tags
 
 ## Databases
 
