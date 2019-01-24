@@ -65,7 +65,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 * [body-parser](http://npm.im/body-parser) - parse form / json input
 * [cookie-parser](http://npm.im/cookie-parser) - cookies
-* [lodash-express](http://npm.im/lodash-express) - lodash templates for express
+* [express-secure-cookie](http://npm.im/express-secure-cookie) - secure cookies by default
 * [morgan](http://npm.im/morgan) - HTTP request logging
 * [bunyan-middleware](http://npm.im/bunyan-middleware) - JSON based request logging
 * [http-proxy-middleware](http://npm.im/http-proxy-middleware) - Proxy requests through to backend APIs
@@ -77,6 +77,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 ### Templating
 
+* [lodash-express](http://npm.im/lodash-express) - lodash templates for express
 * [express-handlebars](http://npm.im/express-handlebars) - reasonably fast mustache-like templating language
 * [serialize-javascript](http://npm.im/serialize-javascript) - Safely serialise JS for use in `<script>` tags
 
