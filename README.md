@@ -144,3 +144,4 @@ This page is my attempt to solve both of these problems, by maintaining a public
 * [node-sass](http://npm.im/node-sass) - Sass, but for node (native module)
 * [nodemon](http://npm.im/nodemon) - automatically restart/re-run script on file changes
 * [time-tree](http://npm.im/time-tree) - timing with nested splits
+* [hot-module-replacement](http://npm.im/hot-module-replacement) - hot module replacement for nodejs server code
