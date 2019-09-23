@@ -49,6 +49,7 @@ This page is my attempt to solve both of these problems, by maintaining a public
 
 ### Client
 
+* [httpism](http://npm.im/httpism) - Newer and fancier http client
 * [axios](http://npm.im/axios) - popular promise-based http client
 * [request](http://npm.im/request) - all-in-one HTTP client
 * [agentkeepalive](http://npm.im/agentkeepalive) - better keepalive support for HTTP client
